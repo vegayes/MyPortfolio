@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 
 import _App from './eunseo/_App';
+import Props from './eunseo/Props';
+
 
 function App() {
   return (
@@ -22,9 +24,7 @@ function App() {
     //   </header>
     // </div>
 
-    <div>
-      _App
-    </div>
+    <Props props_val = "THIS IS PROPS"/>
   );
 }
 

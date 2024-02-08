@@ -6,6 +6,7 @@ function App(){
             <h1>start react 200!</h1>
             <p> Html 적용하기</p>
         </div>
+
     )
 }
 
